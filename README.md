@@ -143,8 +143,6 @@ python inference_video.py --labelmap_path label_map.pbtxt --model_path experimen
 ### Project overview
 This section should contain a brief description of the project and what we are trying to achieve. Why is object detection such an important component of self driving car systems?
 
-In this project, we will create a convolutional neural network to detect and classify objects in urban road environments. We will use the [Waymo Open Dataset](https://waymo.com/open/data/perception), which includes images of urban environments containing annotated vehicles, pedestrians, and cyclists. This dataset will be used to train the CNN using the [TensorFlow Object Detection API](https://www.tensorflow.org/hub/tutorials/object_detection). Appropriate data analysis will be conducted, and data augmentation methods will be applied to further improve the detection performance of the model.
-
 ### Set up
 This section should contain a brief description of the steps to follow to run the code for this repository.
 
